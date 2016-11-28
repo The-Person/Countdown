@@ -1,0 +1,52 @@
+status: 200
+content-length: 920
+expires: Fri, 16 Sep 2016 01:01:05 GMT
+content-location: https://reviews.ubuntu.com/reviews/api/1.0/review-stats/any/any/updates-last-1-days/
+strict-transport-security: max-age=15768000; includeSubDomains; preload
+vary: Accept,Accept-Encoding
+server: gunicorn/19.3.0
+last-modified: Thu, 15 Sep 2016 21:01:05 GMT
+-content-encoding: gzip
+x-bzr-revision-number: 321
+cache-control: max-age=14400
+date: Thu, 15 Sep 2016 21:14:17 GMT
+content-type: application/json; charset=utf-8
+-varied-accept-encoding: gzip, deflate
+
+[
+    {
+        "ratings_total": 4, 
+        "ratings_average": "5.00", 
+        "app_name": "", 
+        "package_name": "fish", 
+        "histogram": "[0, 0, 0, 0, 4]"
+    }, 
+    {
+        "ratings_total": 170, 
+        "ratings_average": "4.64", 
+        "app_name": "", 
+        "package_name": "mypaint", 
+        "histogram": "[4, 6, 5, 17, 138]"
+    }, 
+    {
+        "ratings_total": 331, 
+        "ratings_average": "4.36", 
+        "app_name": "", 
+        "package_name": "soundconverter", 
+        "histogram": "[27, 11, 14, 43, 236]"
+    }, 
+    {
+        "ratings_total": 29, 
+        "ratings_average": "3.69", 
+        "app_name": "", 
+        "package_name": "gcstar", 
+        "histogram": "[7, 1, 1, 5, 15]"
+    }, 
+    {
+        "ratings_total": 168, 
+        "ratings_average": "3.62", 
+        "app_name": "", 
+        "package_name": "clamtk", 
+        "histogram": "[24, 14, 22, 49, 59]"
+    }
+]

@@ -1,0 +1,45 @@
+<!Doctype html>
+  <head>
+    <script>
+    
+      function searchdataP(){//written by Ben Friedman
+        doodad = document.getElementById("loc").value;//grabs dropdown results
+        website = "https://docs.google.com/spreadsheets/d/1MB3CLMWK0O-uqG6GPajQDcmKoCYKg-EO4j0ELoVucv0/gviz/tq?tqx=out:html&tq=SELECT%20A%2C%20B%2C%20C%2C%20D%2C%20E%20WHERE%20B%20CONTAINS%20%27"+doodad+"%27";//generates google sheets query
+        window.location=website;//takes you to query
+        
+      }
+      /*function update(){//half-assed by Ben Friedman
+        doodad = document.getElementById("loc").value;//grabs dropdown results
+        website = "https://docs.google.com/spreadsheets/d/1MB3CLMWK0O-uqG6GPajQDcmKoCYKg-EO4j0ELoVucv0/gviz/tq?tqx=out:html&tq=SELECT%20A%2C%20B%2C%20C%2C%20D%2C%20E%20WHERE%20B%20CONTAINS%20%27"+doodad+"%27";//generages google sheets query
+        document.getElementById("piloto").src= wobsite;//should change embed to new query
+        alert(wobsite);//testing to see if elements work
+        alert(website);//testing to see if elements work
+      
+      }This thing is broken, but unecissary*/
+      
+    </script>
+    
+    <title>
+      Pilot Program
+    </title>
+  </head>
+    
+  <body>
+    
+    <form name="LOCATO" id="pilotform">
+      <label for="loc">Location:</label><!-- creates dropdown menu for locations -->
+      <select name="loc" id="loc">
+        <option></option>
+        <option>LAX</option>
+        <option>ATL</option>
+        <option>DAL</option>
+        <option>BLT</option>
+      </select>
+      <input type="button" onclick="searchdataP()" value = "Search"/><!-- runs search code-->
+    </form>
+    
+    <embed id="piloto" src="https://docs.google.com/spreadsheets/d/1MB3CLMWK0O-uqG6GPajQDcmKoCYKg-EO4j0ELoVucv0/gviz/tq?tqx=out:html&tq=SELECT%20A%2C%20B%2C%20C%2C%20D%2C%20E%20WHERE%20B%20CONTAINS%20%27%27" width="600" height="400"><!-- embeds the pilot query into the page -->
+    
+  </body>
+  
+</html>

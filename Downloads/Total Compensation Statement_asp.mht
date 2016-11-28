@@ -1,0 +1,1210 @@
+From: "Saved by Internet Explorer 11"
+Subject: Total Compensation Statement
+Date: Mon, 15 Aug 2016 18:41:58 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01D1F724.B482CF50"
+X-MimeOLE: Produced By Microsoft MimeOLE V10.0.10011.16384
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01D1F724.B482CF50
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.exponenthr.com/service/TotalComp_print.asp?yr=2016
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><META content=3D"IE=3D5.0000" =
+http-equiv=3D"X-UA-Compatible">
+
+<META http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Diso-8859-1">=20
+<META name=3D"GENERATOR" content=3D"MSHTML 11.00.10586.545"> =
+<TITLE>Total=20
+Compensation Statement</TITLE> <LINK =
+href=3D"https://www.exponenthr.com/service/normal.css"=20
+rel=3D"stylesheet" type=3D"text/css"> <!--include =
+file=3D"ConfirmEmpLogon.asp"-->=20
+<LINK href=3D"favicon.ico" rel=3D"shortcut icon" type=3D"image/x-icon">=20
+<STYLE type=3D"text/css"><!--=0A=
+#alertbg {=0A=
+   position: absolute;=0A=
+   left: 0px;=0A=
+   top: 0px;=0A=
+   width: 100%;=0A=
+   height: 100%;=0A=
+   text-align: center;=0A=
+   background: #999;=0A=
+   -moz-opacity: .5;=0A=
+   opacity: .5;=0A=
+   filter: alpha(opacity=3D50);=0A=
+   visibility: hidden;=0A=
+}=0A=
+#alert {=0A=
+   position: absolute;=0A=
+   height: auto;=0A=
+   width: auto;=0A=
+   background: #fff;=0A=
+   border: 2px solid #043A85;=0A=
+   font-family: Tahoma, Microsoft Sans Serif, arial, sans-serif;=0A=
+   font-size: 8pt;=0A=
+   display: none;=0A=
+}=0A=
+#alert .title {=0A=
+   text-align: left;=0A=
+   background: #043A85;=0A=
+   color: 99A3AC;=0A=
+   font: inherit;=0A=
+   font-size: 10pt;=0A=
+   font-weight: bold;=0A=
+   padding: .3em .4em;=0A=
+   border-bottom: 1px solid #043A85;=0A=
+}=0A=
+#alert .body {=0A=
+   text-align: left;=0A=
+   padding: 1em 3em;=0A=
+   margin: auto;=0A=
+   background: #fff;=0A=
+   color: #000;=0A=
+   font: inherit;=0A=
+}=0A=
+#alert .buttoncontainer {=0A=
+   text-align: center;=0A=
+   padding-top: 1em;=0A=
+   padding-bottom: 0em;=0A=
+}=0A=
+#alert button {=0A=
+   font: inherit;=0A=
+   font-size: 8pt;=0A=
+   width: 75px;=0A=
+   padding: .15em;=0A=
+}=0A=
+#alertiframe {=0A=
+   position: absolute;=0A=
+   top: 0px;=0A=
+   left: 0px;=0A=
+   display: none;=0A=
+   border: none;=0A=
+   overflow: hidden;=0A=
+}=0A=
+-->=0A=
+</STYLE>
+=20
+<SCRIPT type=3D"text/javascript">=0A=
+var g_AlertQueue =3D null;=0A=
+=0A=
+var $ =3D function(element) {=0A=
+   return (typeof element =3D=3D 'string') ? =
+document.getElementById(element) : element;=0A=
+};=0A=
+=0A=
+// Define the Array.push() method if it doesn't already exist (e.g. IE =
+5.5)=0A=
+if (typeof Array.prototype.push =3D=3D 'undefined' || =
+!Array.prototype.push) {=0A=
+   Array.prototype.push =3D function() {=0A=
+      for (var i =3D 0; i < arguments.length; i++) {=0A=
+         this[this.length] =3D arguments[i];=0A=
+      }=0A=
+      return this.length;=0A=
+   }=0A=
+}=0A=
+=0A=
+// Define the Array.shift() method if it doesn't already exist (e.g. IE =
+5.5)=0A=
+if (typeof Array.prototype.shift =3D=3D 'undefined' || =
+!Array.prototype.shift) {=0A=
+   Array.prototype.shift =3D function() {=0A=
+      for (var i =3D 1, item =3D this[0]; i < this.length; i++) {=0A=
+         this[i-1] =3D this[i];=0A=
+      }=0A=
+      this.length--;=0A=
+      return item;=0A=
+   }=0A=
+}=0A=
+=0A=
+function EHR_CreateIFrame(id) {=0A=
+   var iframe =3D document.createElement('IFRAME');=0A=
+   iframe.id =3D id;=0A=
+   iframe.src =3D 'blank.htm';=0A=
+   iframe.setAttribute('id', id);=0A=
+   iframe.setAttribute('src', 'blank.htm');=0A=
+   iframe.scrolling =3D 'no';=0A=
+   iframe.frameborder =3D 0;=0A=
+   iframe.style.top =3D '0px';=0A=
+   iframe.style.left =3D '0px';=0A=
+   iframe.style.display =3D 'none';=0A=
+   iframe.style.position =3D 'absolute';=0A=
+   document.body.appendChild(iframe);=0A=
+}=0A=
+=0A=
+function EHR_QueueAlert(text, title, buttons) {=0A=
+   if (g_AlertQueue =3D=3D null) g_AlertQueue =3D [];=0A=
+   g_AlertQueue.push({=0A=
+      'text': text,=0A=
+      'title': title,=0A=
+      'buttons': buttons=0A=
+   });=0A=
+}=0A=
+=0A=
+function EHR_Alert(text, title, buttons) {=0A=
+   // show the alert=0A=
+   EHR_DisplayAlert(text, title, buttons);=0A=
+}=0A=
+=0A=
+function EHR_DisplayAlert(text, title, buttons) {=0A=
+   var a =3D $('alert');=0A=
+   var bg =3D $('alertbg');=0A=
+   var ai =3D $('alertiframe');=0A=
+   =0A=
+   // make sure the alert is not currently being displayed=0A=
+   if (a && a.style.display =3D=3D 'block') {=0A=
+      EHR_QueueAlert(text, title, buttons);=0A=
+      return;=0A=
+   }=0A=
+   =0A=
+   // create the iframe if needed=0A=
+   if (!ai) {=0A=
+      EHR_CreateIFrame('alertiframe');=0A=
+      ai =3D $('alertiframe');=0A=
+   }=0A=
+   =0A=
+   // style and display the alert=0A=
+   if (a && bg) {=0A=
+      a.onkeydown =3D EHR_Alert_KeyEvent;=0A=
+      if (!buttons) {=0A=
+         buttons =3D [ "<button>OK</button>" ];=0A=
+      }=0A=
+      text =3D text.replace(/\n/g, "<br/>").replace(/\t/g, =
+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;").replace(/\s\s/g, "&nbsp; ");=0A=
+      title =3D (title !=3D null && title !=3D '') ? title : =
+"ExponentHR";=0A=
+      =0A=
+      // prepare the text for the alert=0A=
+      var t =3D [ "<div class=3D\"title\">", title, "</div>" ];=0A=
+      t.push("<div class=3D\"body\">", text);=0A=
+      t.push("<div class=3D\"buttoncontainer\">");=0A=
+      for (var i =3D 0; i < buttons.length; i++) {=0A=
+         if (i > 0) t.push("&nbsp;");=0A=
+         t.push("<span id=3D\"alertbtn_", i, "\" =
+onclick=3D\"EHR_HideAlert(", i, ")\">", buttons[i], "</span>");=0A=
+      }=0A=
+      t.push("</div></div>");=0A=
+      a.style.width =3D 'auto';=0A=
+      a.style.height =3D 'auto';=0A=
+      a.innerHTML =3D t.join('');=0A=
+=0A=
+      //Hide Select Elements=0A=
+      EHR_Alert_Selects('hide');=0A=
+            =0A=
+      // style the semi-transparent background div=0A=
+      var bgs =3D bg.style;=0A=
+      bgs.width =3D 'auto';=0A=
+      bgs.height =3D 'auto';=0A=
+      bgs.visibility =3D 'hidden';=0A=
+      bgs.display =3D 'block';=0A=
+=0A=
+      // style the alert div=0A=
+      var s =3D a.style;=0A=
+      s.zIndex =3D 3001;=0A=
+      s.visibility =3D 'hidden';=0A=
+      s.display =3D 'block';=0A=
+      EHR_PositionAlert();=0A=
+      =0A=
+      // style the semi-transparent background div=0A=
+      bgs.zIndex =3D s.zIndex - 1;=0A=
+      bgs.visibility =3D 'visible';=0A=
+=0A=
+      // show the alert div=0A=
+      s.visibility =3D 'visible';=0A=
+      =0A=
+      // show the iframe=0A=
+      if (ai) {=0A=
+         ai.style.zIndex =3D s.zIndex - 1;=0A=
+         ai.style.display =3D 'block';=0A=
+      }=0A=
+      =0A=
+      // prevent the document from scrolling/resizing (temporarily)=0A=
+      window.onscroll =3D EHR_PositionAlert;=0A=
+      window.onresize =3D EHR_PositionAlert;      =0A=
+      =0A=
+      // put the focus on the first button in the alert div=0A=
+      setTimeout("try { =
+$('alert').getElementsByTagName('button')[0].focus(); } catch(e) {}",50);=0A=
+   } else {=0A=
+      alert(text);=0A=
+   }=0A=
+}=0A=
+=0A=
+function EHR_PositionAlert() {=0A=
+   var a =3D $('alert');=0A=
+   var bg =3D $('alertbg');=0A=
+   var ai =3D $('alertiframe');=0A=
+   var db =3D document.body;=0A=
+   var h =3D (window.innerHeight) ? window.innerHeight : db.clientHeight;=0A=
+   var w =3D (window.innerWidth) ? window.innerWidth : db.clientWidth;=0A=
+   var scrollTop =3D (self.pageYOffset) ? self.pageYOffset : =
+db.scrollTop;=0A=
+   var scrollLeft =3D (self.pageXOffset) ? self.pageXOffset : =
+db.scrollLeft;=0A=
+   var scrollHt =3D (db.scrollHeight > db.offsetHeight) ? =
+db.scrollHeight : db.offsetHeight;=0A=
+   var scrollWd =3D (db.scrollWidth > db.offsetWidth) ? db.scrollWidth : =
+db.offsetWidth;=0A=
+   =0A=
+   if (a) {=0A=
+      a.style.left =3D ((w - a.offsetWidth) / 2 + scrollLeft) + 'px';=0A=
+      a.style.top =3D ((h - a.offsetHeight) / 2 + scrollTop) + 'px';=0A=
+      if (ai) {=0A=
+         ai.style.left =3D a.style.left;=0A=
+         ai.style.top =3D a.style.top;=0A=
+         ai.style.width =3D a.offsetWidth + 'px';=0A=
+         ai.style.height =3D a.offsetHeight + 'px';=0A=
+      }=0A=
+   }=0A=
+   =0A=
+   if (bg) {=0A=
+      bg.style.left =3D scrollLeft + 'px';=0A=
+      bg.style.top =3D scrollTop + 'px';=0A=
+      bg.style.height =3D Math.min(h, db.clientHeight) + 'px';=0A=
+      bg.style.width =3D Math.min(w, db.clientWidth) + 'px';=0A=
+   }=0A=
+}=0A=
+=0A=
+function EHR_HideAlert(i) {=0A=
+   var b =3D $('alertbtn_'+i);=0A=
+   if (b) {=0A=
+      // if the button the user clicked is disabled (for whatever reason)=0A=
+      // then do not hide the alert box=0A=
+      b =3D b.getElementsByTagName('button')[0];=0A=
+      if (b && b.disabled) return;=0A=
+   }=0A=
+   var bg =3D $('alertbg');=0A=
+   var a =3D $('alert');=0A=
+   var ai =3D $('alertiframe');=0A=
+   if (a) a.style.display =3D 'none';=0A=
+   if (ai) ai.style.display =3D 'none';=0A=
+=0A=
+   // see if there are any alerts queued up;=0A=
+   if (g_AlertQueue !=3D null && g_AlertQueue.length > 0) {=0A=
+      var next =3D g_AlertQueue.shift();=0A=
+      EHR_Alert(next.text, next.title, next.buttons);=0A=
+      return;=0A=
+   }=0A=
+=0A=
+   if (bg) {=0A=
+      bg.style.display =3D 'none';=0A=
+      EHR_Alert_Selects('');=0A=
+   }=0A=
+   window.onscroll =3D null;=0A=
+   window.onresize =3D null;=0A=
+}=0A=
+=0A=
+function EHR_Alert_KeyEvent(event) {=0A=
+   event =3D (window.event) ? window.event : event;=0A=
+   switch (event.keyCode) {=0A=
+      case 9:  // tab=0A=
+         // change focus to next button when the user presses the TAB key=0A=
+         var b =3D event.srcElement || event.target;=0A=
+         try {=0A=
+            var bId =3D parseInt(b.parentNode.id.split('_')[1], 10);=0A=
+            var bCnt =3D =
+$('alert').getElementsByTagName('button').length - 1;=0A=
+            if (bId < bCnt) {=0A=
+               $('alertbtn_'+(bId+1)).firstChild.focus();=0A=
+               return false;=0A=
+            } else {=0A=
+               $('alertbtn_0').firstChild.focus();=0A=
+               return false;=0A=
+            }=0A=
+         } catch(e) {}=0A=
+         break;=0A=
+         =0A=
+      case 27: // esc=0A=
+         // dismiss the alert=0A=
+         var btns =3D $('alert').getElementsByTagName('button');=0A=
+         for (var i =3D 0, n =3D btns.length; i < n; i++) {=0A=
+            var b =3D btns[i];=0A=
+            var t =3D b.getAttribute('type');=0A=
+            if (n =3D=3D 1 || (t && t.toLowerCase() =3D=3D 'cancel') || =
+b.innerHTML.match(/^\s*(No|Cancel)\s*$/i) !=3D null) {=0A=
+               if (b.click !=3D null) {=0A=
+                  b.click();=0A=
+                  break;=0A=
+               }=0A=
+            }=0A=
+         }=0A=
+         break;=0A=
+         =0A=
+      default:=0A=
+         break;=0A=
+   }=0A=
+}=0A=
+=0A=
+function EHR_Alert_Selects(action) {=0A=
+	// Returns if browser version is NOT IE 6 or lower.=0A=
+	var bVersion =3D =
+parseInt(window.navigator.appVersion.charAt(window.navigator.appVersion.i=
+ndexOf('MSIE')+5), 10);=0A=
+	if (!(bVersion <=3D 6 && window.navigator.userAgent.indexOf('MSIE') > =
+-1)) return false;		=0A=
+=0A=
+   var SelectObjs =3D document.getElementsByTagName('select');=0A=
+   for (i =3D 0; (aObj =3D SelectObjs[i]); i++) {         =0A=
+      if (action =3D=3D 'hide') {=0A=
+         aObj.style.visibility =3D 'hidden';=0A=
+         aObj.trigger =3D 'EHR_Alert';=0A=
+      } else {=0A=
+         if (aObj.style.visibility !=3D 'visible' && aObj.trigger =3D=3D =
+'EHR_Alert') {=0A=
+            aObj.style.visibility =3D 'visible';=0A=
+            aObj.trigger =3D '';=0A=
+         }=0A=
+      }=0A=
+   }  =0A=
+}=0A=
+</SCRIPT>
+ </HEAD>
+<BODY topmargin=3D"0" leftmargin=3D"0" =
+onload=3D"javascript:DisplayError('');"=20
+#5d6974=3D"" stylesrc=3D"background_defaults.htm">
+<DIV id=3D"alertbg"></DIV>
+<DIV id=3D"alert"></DIV>
+<SCRIPT language=3D"JavaScript">=0A=
+var invalidLogin =3D false;=0A=
+=0A=
+function checklogin() {=0A=
+	if (invalidLogin =3D=3D true){return;}=0A=
+=0A=
+	var cValue=3D"";=0A=
+	var nameEQ =3D "LoginKey=3D";=0A=
+	var ssid=3D"", guid=3D"", arr, c;=0A=
+	=0A=
+	var ca =3D document.cookie.split(';');=0A=
+	=0A=
+	for(var i=3D0;i < ca.length;i++) {=0A=
+		c =3D ca[i];=0A=
+		while (c.charAt(0)=3D=3D' ') c =3D c.substring(1,c.length);=0A=
+		if (c.indexOf(nameEQ) =3D=3D 0) {=0A=
+			cValue=3Dc.substring(nameEQ.length,c.length);=0A=
+			arr =3D cValue.split('&');=0A=
+			if (arr[0].indexOf('GUID')>=3D0) {=0A=
+				guid =3D arr[0].split('=3D')[1];=0A=
+				ssid =3D arr[1].split('=3D')[1];=0A=
+			} else {=0A=
+				ssid =3D arr[0].split('=3D')[1];=0A=
+				guid =3D arr[1].split('=3D')[1];=0A=
+			}=0A=
+			break;=0A=
+		}=0A=
+	}=0A=
+=0A=
+=0A=
+	=0A=
+=0A=
+   if (guid!=3D"FB37464273054C0AA18855FF0079321E" && =
+ssid.indexOf("QSTTRTDQEMKIFCJANJFOCPIKKFDCCHCK")>=3D0) {=0A=
+=0A=
+		invalidLogin =3D true;=0A=
+      =0A=
+=0A=
+      setTimeout('checkUnload()', 1);=0A=
+=0A=
+	   //var buttons =3D [ "<button =
+onclick=3D\"checkUnload();\">OK</button>" ];=0A=
+		//EHR_Alert("<center><b>You have been logged out because another =
+ExponentHR window/tab exists.</b></center>", "", buttons);=0A=
+   }=0A=
+   // clear memory=0A=
+   delete ca;=0A=
+   delete arr;=0A=
+   cValue=3DnameEQ=3Dssid=3Dguid=3Darr=3Dc=3Dca=3Dnull;=0A=
+}=0A=
+=0A=
+function checkUnload() {=0A=
+	clearInterval(intervalVar);=0A=
+	if (invalidLogin =3D=3D true){=0A=
+		if (window.opener!=3Dnull) {window.close();} else =
+{location.href=3D'InvalidEmp.asp?ErrorNum=3D100012&'+getErrorParams();}=0A=
+	}=0A=
+}=0A=
+=0A=
+function getErrorParams() {=0A=
+   var r =3D "";=0A=
+   =0A=
+   return r;=0A=
+}=0A=
+=0A=
+var intervalVar =3D setInterval('checklogin()', 200);=0A=
+checklogin();=0A=
+=0A=
+=0A=
+=0A=
+function checkBeforeUnload() {=0A=
+   try {=0A=
+      clearInterval(intervalVar);=0A=
+   }=0A=
+   catch(e) {}=0A=
+}=0A=
+=0A=
+if (window.addEventListener) {=0A=
+   window.addEventListener('beforeunload', checkBeforeUnload, false);=0A=
+} else if (window.attachEvent) {=0A=
+   window.attachEvent('onbeforeunload', checkBeforeUnload);=0A=
+}=0A=
+=0A=
+</SCRIPT>
+=20
+<SCRIPT language=3D"JavaScript">=0A=
+var LastMenuNode =3D "NULL"=0A=
+var CBLink =3D "99A3AC"=0A=
+var CBHover =3D "75A475"=0A=
+=0A=
+var MenuHelp=3D0;=0A=
+var MenuHelpMouseOut=3D0;=0A=
+var MenuOptions1=3D0;=0A=
+var MenuOptions2=3D0;=0A=
+var MenuOptions3=3D0;=0A=
+=0A=
+</SCRIPT>
+=20
+<SCRIPT src=3D"Utils/event_js.asp?v=3D329142120161615" =
+type=3D"text/javascript"></SCRIPT>
+
+<SCRIPT src=3D"Utils/PieChart_js.asp?v=3D1698742120161615" =
+type=3D"text/javascript"></SCRIPT>
+<!--[if IE]><script type=3D"text/javascript" =
+src=3D"Utils/excanvas-compressed.js?v=3D1053842120161615"></script><![end=
+if]-->=20
+<STYLE type=3D"text/css">=0A=
+<!--=0A=
+.style1 {font-family: "Microsoft Sans Serif"}=0A=
+-->=0A=
+</STYLE>
+=20
+<STYLE fprolloverstyle=3D"">=0A=
+A:hover {color: #E4CC81; font-family: Microsoft Sans Serif}=0A=
+</STYLE>
+	        	 <!-- Begin Page Head Code -->        =20
+<DIV align=3D"center">
+<CENTER>
+<TABLE width=3D"650" align=3D"center" id=3D"Table206" =
+bordercolor=3D"#000000" border=3D"1"=20
+cellspacing=3D"0" cellpadding=3D"0">
+  <TBODY>
+  <TR>
+    <TD colspan=3D"3">
+      <TABLE width=3D"650" id=3D"Table1" style=3D"color: rgb(0, 0, 0); =
+font-family: Microsoft Sans Serif; border-collapse: collapse;">
+        <TBODY>
+        <TR>
+          <TD width=3D"205"><IMG align=3D"center" =
+src=3D"https://www.exponenthr.com/service/logos/00363CATESCONTROLSYSTEMSI=
+NC.jpg"=20
+            border=3D"0"> </TD>
+          <TD width=3D"445" valign=3D"bottom">
+            <H1>2016 Total Compensation Statement </H1>
+            <H4><B>Employee:</B>&nbsp;Browder, Chase A - V00283=20
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   =
+<B>Date=20
+            Range:</B> 01/01/2016 - 						8/15/2016		 </H4></TD></TR>
+        <TR>
+          <TD colspan=3D"2">
+            <TABLE width=3D"650" id=3D"Table29" style=3D"color: rgb(0, =
+0, 0); font-family: Microsoft Sans Serif; border-collapse: collapse;"=20
+            border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+              <TBODY>
+              <TR>
+                <TD width=3D"4%"></TD>
+                <TD width=3D"92%"><FONT color=3D"#000000" =
+face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 7pt;"><BR></FONT>						</TD>
+                <TD width=3D"4%"></TD></TR>
+              <TR height=3D"10">
+                =
+<TD>&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD>
+      <DIV align=3D"center">
+      <CENTER>
+<SCRIPT language=3D"JavaScript">=0A=
+function RefreshSubmitBatch(E1,E2) =0A=
+{=0A=
+  var atable =3D document.getElementById('StatusBar');=0A=
+  if ((E2!=3D"0") && (E2!=3D"")) {=0A=
+     atable.width =3D (E2) + "%";=0A=
+     var atable =3D document.getElementById('StatusBarPerc');=0A=
+     atable.innerHTML =3D "&nbsp;" + (E2) + "%";=0A=
+  }=0A=
+}=0A=
+function HideSubmitBatch()=0A=
+{=0A=
+  var layer =3D document.getElementById("DivSubmitBatch"); =0A=
+  layer.style.display=3D"none";=0A=
+}=0A=
+</SCRIPT>
+      =20
+      <DIV id=3D"DivSubmitBatch" style=3D"display: block;">
+      <CENTER>
+      <TABLE width=3D"650" id=3D"Table5" bgcolor=3D"#ffffff" =
+border=3D"0" cellspacing=3D"0"=20
+      cellpadding=3D"0">
+        <TBODY>
+        <TR>
+          <TD>
+            <FORM name=3D"Form3" id=3D"Form1" method=3D"POST" =
+target=3D"">
+            <TABLE width=3D"610" id=3D"Table2" border=3D"0" =
+cellspacing=3D"0"=20
+            cellpadding=3D"0">
+              <TBODY>
+              <TR>
+                <TD align=3D"center" valign=3D"center"><BR><FONT =
+face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 8pt;"><B>Retrieving Data...</B>    =
+  =20
+                  </FONT>     </TD>
+                <TD width=3D"80%" align=3D"left"><BR>
+                  <TABLE width=3D"100%" id=3D"Table6" bgcolor=3D"black" =
+border=3D"0"=20
+                  cellspacing=3D"2" cellpadding=3D"0">
+                    <TBODY>
+                    <TR>
+                      <TD align=3D"left" valign=3D"top" =
+bgcolor=3D"white">
+                        <TABLE width=3D"0%" id=3D"StatusBar" =
+bgcolor=3D"#043a85"=20
+                        border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0">
+                          <TBODY>
+                          <TR>
+                            <TD valign=3D"top"><FONT color=3D"#99a3ac" =
+font=3D""><A=20
+                              id=3D"StatusBarPerc" style=3D"font-family: =
+Microsoft Sans Serif; font-size: 8pt; font-weight: bold;">&nbsp;0%</A>=20
+                                       </FONT>        =20
+                    =
+</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></T=
+ABLE></FORM></TD></TR></TBODY></TABLE></CENTER></DIV>
+<SCRIPT language=3D"JavaScript">=0A=
+   RefreshSubmitBatch('','');=0A=
+</SCRIPT>
+      =20
+<STYLE>div.break {page-break-after:always}</STYLE>
+       <!-- END OF MASTER CODE -->	<FONT color=3D"#caca00" =
+face=3D"Microsoft Sans Serif"></FONT>
+      	=20
+      <TABLE width=3D"640" id=3D"Table4" style=3D"font-family: Microsoft =
+Sans Serif, sans-serif; font-size: 8pt; border-collapse: collapse;"=20
+      border=3D"0" cellspacing=3D"0" cellpadding=3D"3">
+        <TBODY>
+        <TR height=3D"22">
+          <TD width=3D"640" align=3D"center" bgcolor=3D"#000000" =
+colspan=3D"2"><FONT=20
+            color=3D"#ffffff" face=3D"Microsoft Sans Serif"=20
+            style=3D"font-size: 10pt;"><B>			Summary			 </B></FONT>		 =
+</TD></TR>
+        <TR height=3D"5">
+          <TD width=3D"640" bgcolor=3D"#ffffff" colspan=3D"2"></TD></TR>
+        <TR>
+          <TD width=3D"320" valign=3D"top"><!-- Start -->            =20
+            <TABLE width=3D"320" id=3D"Table5" bordercolor=3D"#ffffff" =
+style=3D"font-size: 8pt; border-collapse: collapse;"=20
+            bgcolor=3D"#ffffff" border=3D"1" cellspacing=3D"1" =
+cellpadding=3D"3">
+              <TBODY>
+              <TR>
+                <TD width=3D"25" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#939ea8">&nbsp;                    </TD>
+                <TD width=3D"137" height=3D"25" =
+bgcolor=3D"#939ea8"><SPAN style=3D"font-weight: 400;"><B><FONT=20
+                  face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 8pt;">Description</FONT></B>
+                  						 </SPAN><FONT face=3D"Microsoft Sans Serif" =
+style=3D"font-size: 8pt;"></FONT>
+                  					 </TD>
+                <TD width=3D"35" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#939ea8"><B><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;">%</FONT></B>
+                  						 <FONT face=3D"Microsoft Sans Serif" =
+style=3D"font-size: 8pt;"></FONT>
+                  					 </TD>
+                <TD width=3D"108" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#939ea8"><B><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;">Amount</FONT></B>&nbsp;
+                  					</TD></TR>
+              <TR>
+                <TD width=3D"25" height=3D"25" align=3D"right" =
+bgcolor=3D"#d5d9dd">
+                  <TABLE id=3D"Table6" bordercolor=3D"#111111" =
+style=3D"border-collapse: collapse;"=20
+                  border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                    <TBODY>
+                    <TR>
+                      <TD width=3D"5" height=3D"10" =
+align=3D"right"></TD>
+                      <TD width=3D"10" height=3D"10" =
+align=3D"right"><IMG =
+src=3D"https://www.exponenthr.com/service/images/tc_worked.jpg"=20
+                        border=3D"0">									 </TD>
+                      <TD width=3D"5" height=3D"10"=20
+                  align=3D"right"></TD></TR></TBODY></TABLE></TD>
+                <TD width=3D"137" height=3D"25" =
+bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 8pt;">Salary and Wage</FONT>					 =
+</TD>
+                <TD width=3D"35" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;">=20
+                                       		87.0                      	 =
+</FONT>
+                					 </TD>
+                <TD width=3D"108" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;">=20
+                                         	$1,664.85&nbsp;						 </FONT>  =
+       =20
+                             </TD></TR>
+              <TR>
+                <TD width=3D"25" height=3D"25" align=3D"right" =
+bgcolor=3D"#d5d9dd">
+                  <TABLE id=3D"Table12" bordercolor=3D"#111111" =
+style=3D"border-collapse: collapse;"=20
+                  border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                    <TBODY>
+                    <TR>
+                      <TD width=3D"5" height=3D"10" =
+align=3D"right"></TD>
+                      <TD width=3D"10" height=3D"10" =
+align=3D"right"><IMG =
+src=3D"https://www.exponenthr.com/service/images/tc_statutory.jpg"=20
+                        border=3D"0">   							 </TD>
+                      <TD width=3D"5" height=3D"10"=20
+                  align=3D"right"></TD></TR></TBODY></TABLE></TD>
+                <TD width=3D"137" height=3D"25" =
+bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 8pt;">Statutory Benefits</FONT>				=
+	 </TD>
+                <TD width=3D"35" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;">=20
+                                       		13.0						 </FONT>					 </TD>
+                <TD width=3D"108" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;">
+                  							$248.23&nbsp;						 </FONT>					 </TD></TR>
+              <TR>
+                <TD width=3D"25" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd">&nbsp;					</TD>
+                <TD width=3D"192" height=3D"25" =
+bgcolor=3D"#d5d9dd"><SPAN style=3D"font-weight: 400;"><FONT=20
+                  face=3D"Microsoft Sans Serif" style=3D"font-size: =
+8pt;"><B>Total=20
+                  Earnings</B></FONT>						 </SPAN>						 <FONT =
+face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 8pt;"></FONT>					 </TD>
+                <TD width=3D"20" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;"></FONT>
+                  					 </TD>
+                <TD width=3D"108" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;"><B>
+                  							$1,913.08&nbsp;						 </B></FONT>
+            					 </TD></TR></TBODY></TABLE><!-- END -->		 </TD>
+          <TD width=3D"320" valign=3D"top">
+            <DIV><CANVAS width=3D"320" height=3D"215"=20
+          id=3D"totalcomp"></CANVAS></DIV></TD></TR>
+        <TR height=3D"22">
+          <TD width=3D"640" align=3D"center" bgcolor=3D"#000000" =
+colspan=3D"2"><FONT=20
+            color=3D"#ffffff" face=3D"Microsoft Sans Serif"=20
+            style=3D"font-size: 10pt;"><B>				Salary and Wage</B></FONT>	=
+	 </TD></TR>
+        <TR height=3D"5">
+          <TD width=3D"640" bgcolor=3D"#ffffff" colspan=3D"2"></TD></TR>
+        <TR>
+          <TD width=3D"320" valign=3D"top">
+            <TABLE id=3D"Table13" bordercolor=3D"#ffffff" =
+style=3D"font-size: 8pt; border-collapse: collapse;"=20
+            bgcolor=3D"#ffffff" border=3D"1" cellspacing=3D"1" =
+cellpadding=3D"3">
+              <TBODY>
+              <TR width=3D"320">
+                <TD width=3D"20" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#939ea8">&nbsp;					</TD>
+                <TD width=3D"192" height=3D"25" =
+bgcolor=3D"#939ea8"><SPAN style=3D"font-weight: 400;"><B><FONT=20
+                  face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 8pt;">Description</FONT></B>						 =
+</SPAN>
+                  						 <FONT face=3D"Microsoft Sans Serif" =
+style=3D"font-size: 8pt;"></FONT>
+                  					 </TD>
+                <TD width=3D"108" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#939ea8"><B><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;">Amount</FONT></B>&nbsp;
+                  					</TD></TR>
+              <TR>
+                <TD width=3D"20" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd">&nbsp;					</TD>
+                <TD width=3D"192" height=3D"25" =
+bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 8pt;">Regular Pay</FONT>					 =
+</TD>
+                <TD width=3D"108" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;">
+                  							$1,654.95&nbsp;						 </FONT>					 =
+</TD></TR><!-- Start Time Worked Loop -->
+              									=20
+              <TR>
+                <TD width=3D"20" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd">&nbsp;					</TD>
+                <TD width=3D"192" height=3D"25" =
+bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 8pt;">							Overtime Earnings					=
+	 </FONT>
+                  					 </TD>
+                <TD width=3D"108" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;">
+                  							$9.90&nbsp;						 </FONT>					 </TD></TR><!-- =
+End Time Worked Loop -->									=09
+              								=09
+              <TR>
+                <TD width=3D"20" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd">&nbsp;					</TD>
+                <TD width=3D"192" height=3D"25" =
+bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 8pt;"><B>Total Salary and =
+Wage:</B>
+                  						 </FONT>					 </TD>
+                <TD width=3D"108" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;"><B>$1,664.85</B></FONT><B>&nbsp;</B>
+                  					 </TD></TR></TBODY></TABLE></TD>
+          <TD width=3D"320" valign=3D"top">
+            <TABLE width=3D"320" id=3D"Table14" bordercolor=3D"#111111" =
+style=3D"border-collapse: collapse;"=20
+            border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+              <TBODY>
+              <TR height=3D"7" width=3D"320" colspan=3D"3">
+                <TD></TD></TR>
+              <TR width=3D"320" colspan=3D"3">
+                <TD width=3D"10"></TD>
+                <TD width=3D"320"><FONT face=3D"Microsoft Sans Serif" =
+style=3D"font-size: 8pt;">
+                  <P>Salary and Wage includes your Base Salary, =
+Overtime, and=20
+                  the value of defined holidays, floating holidays, =
+vacation,=20
+                  sick, jury, and bereavement based on policies and=20
+                  accruals.</P></FONT>													 <FONT =
+color=3D"#000000" face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 7pt;">
+                  <P>Note: Your Base Salary is an annualized calculation =
+(or=20
+                  Year-to-Date accumulation) of your standard pay-period =
+rate or=20
+                  hourly rate.</P></FONT>                                =
+ =20
+                					</TD>
+                <TD width=3D"10"></TD></TR></TBODY></TABLE></TD></TR>
+        <TR height=3D"30">
+          <TD colspan=3D"2"></TD></TR><!-- END OF SECTION -->					=09
+        <TR height=3D"22">
+          <TD width=3D"640" align=3D"center" bgcolor=3D"#000000" =
+colspan=3D"2"><FONT=20
+            color=3D"#ffffff" face=3D"Microsoft Sans Serif"=20
+            style=3D"font-size: 10pt;"><B>			Statutory =
+Benefits</B></FONT>
+		 </TD></TR>
+        <TR height=3D"5">
+          <TD width=3D"640" bgcolor=3D"#ffffff" colspan=3D"2"></TD></TR>
+        <TR height=3D"5">
+          <TD width=3D"320" valign=3D"top" bgcolor=3D"#ffffff">
+            <TABLE id=3D"Table31" bordercolor=3D"#ffffff" =
+style=3D"font-size: 8pt; border-collapse: collapse;"=20
+            bgcolor=3D"#ffffff" border=3D"1" cellspacing=3D"1" =
+cellpadding=3D"3">
+              <TBODY>
+              <TR>
+                <TD width=3D"20" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#939ea8">&nbsp;					</TD>
+                <TD width=3D"192" height=3D"25" =
+bgcolor=3D"#939ea8"><SPAN style=3D"font-weight: 400;"><B><FONT=20
+                  face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 8pt;">Description</FONT></B>
+                  						 </SPAN><FONT face=3D"Microsoft Sans Serif" =
+style=3D"font-size: 8pt;">
+                  						 </FONT>					 </TD>
+                <TD width=3D"108" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#939ea8"><B><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;">Amount</FONT></B>&nbsp;
+                  					</TD></TR><!-- Start Statutory Benefits Loop -->		=
+							=20
+              <TR>
+                <TD width=3D"20" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd">&nbsp;					</TD>
+                <TD width=3D"192" height=3D"25" =
+bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 8pt;">							TX Unemployment =
+Insurance (ER)
+                  						 </FONT>					 </TD>
+                <TD width=3D"108" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;">
+                  							$110.88&nbsp;						 </FONT>					 </TD></TR>
+              <TR>
+                <TD width=3D"20" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd">&nbsp;					</TD>
+                <TD width=3D"192" height=3D"25" =
+bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 8pt;">							Social Security =
+(Employer)
+                  						 </FONT>					 </TD>
+                <TD width=3D"108" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;">
+                  							$103.22&nbsp;						 </FONT>					 </TD></TR>
+              <TR>
+                <TD width=3D"20" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd">&nbsp;					</TD>
+                <TD width=3D"192" height=3D"25" =
+bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 8pt;">							Medicare Tax =
+(Employer)
+                  						 </FONT>					 </TD>
+                <TD width=3D"108" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;">
+                  							$24.14&nbsp;						 </FONT>					 </TD></TR>
+              <TR>
+                <TD width=3D"20" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd">&nbsp;					</TD>
+                <TD width=3D"192" height=3D"25" =
+bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 8pt;">							Federal Unemployment =
+Tax
+                  						 </FONT>					 </TD>
+                <TD width=3D"108" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;">
+                  							$9.99&nbsp;						 </FONT>					 </TD></TR><!-- =
+End Statutory Benefits Loop -->		=09
+              			=09
+              <TR>
+                <TD width=3D"20" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd">&nbsp;					</TD>
+                <TD width=3D"192" height=3D"25" =
+bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 8pt;"><B>Total Statutory =
+Benefits:</B>
+                  						 </FONT>					 </TD>
+                <TD width=3D"108" height=3D"25" align=3D"right"=20
+                  bgcolor=3D"#d5d9dd"><FONT face=3D"Microsoft Sans =
+Serif" style=3D"font-size: 8pt;"><B>$248.23&nbsp;</B>
+                  						 </FONT>					 </TD></TR></TBODY></TABLE></TD>
+          <TD width=3D"320" valign=3D"top">
+            <TABLE width=3D"320" id=3D"Table32" bordercolor=3D"#111111" =
+style=3D"border-collapse: collapse;"=20
+            border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+              <TBODY>
+              <TR>
+                <TD width=3D"10" height=3D"7"></TD>
+                <TD height=3D"7"></TD>
+                <TD width=3D"10" height=3D"7"></TD></TR>
+              <TR>
+                <TD width=3D"10"></TD>
+                <TD><FONT face=3D"Microsoft Sans Serif" =
+style=3D"font-size: 8pt;">
+                  <P>Statutory includes the Company=92s matching =
+contributions to=20
+                  FICA (Social Security and Medicare) benefit programs. =
+You=20
+                  and/or your dependents may be eligible to receive some =
+or all=20
+                  of these medical, retirement, and survivor=20
+                  benefits.</P></FONT>						 <FONT color=3D"#000000" =
+face=3D"Microsoft Sans Serif"=20
+                  style=3D"font-size: 7pt;">
+                  <P>Note: Federal regulations mandate and determine the =
+amount=20
+                  of these matching contributions and benefit=20
+                  dispersal.</P></FONT>                        					=
+</TD>
+                <TD =
+width=3D"10"></TD></TR></TBODY></TABLE></TD></TR><!-- END OF SECTION -->	=
+									=09
+        </TBODY></TABLE>
+<SCRIPT type=3D"text/javascript">=0A=
+function populateDiagrams() {=0A=
+=0A=
+      var pie =3D new PieChart({=0A=
+         id: 'totalcomp'=0A=
+         ,series: [1664.85,0,0,0,0,248.23]=0A=
+         ,labels: ["Salary and Wage","Variable","Health and =
+Welfare","Retirement","Other Benefits","Statutory Benefits"]=0A=
+         ,thickness: 7=0A=
+      });=0A=
+      pie.draw();=0A=
+      =0A=
+}  // ends populateDiagrams()=0A=
+</SCRIPT>
+       =20
+<SCRIPT language=3D"JavaScript">=0A=
+   HideSubmitBatch(); =0A=
+</SCRIPT>
+                                              </CENTER></DIV><!-- END OF =
+TOTAL COMP DATA -->=20
+     </TD></TR>
+  <TR>
+    <TD height=3D"20">
+      <TABLE width=3D"100%" id=3D"AutoNumber3" bordercolor=3D"#111111" =
+style=3D"border-collapse: collapse;"=20
+      border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+        <TBODY>
+        <TR>
+          <TD width=3D"30" bgcolor=3D"#043a85">&nbsp;</TD>
+          <TD bgcolor=3D"#043a85"><B><FONT color=3D"#99a3ac" =
+face=3D"Microsoft Sans Serif"=20
+            size=3D"1"> Generated using=20
+    =
+ExponentHR</FONT></B></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>=
+</CENTER></DIV><!-- END OF PAGE ENDING CODE -->=20
+<SCRIPT language=3D"JavaScript">=0A=
+function DisplayError(mErr)=0A=
+{=0A=
+  if (mErr !=3D "")  {=0A=
+    alert(mErr);=0A=
+    }=0A=
+   if (typeof populateDiagrams !=3D 'undefined') populateDiagrams();=0A=
+}=0A=
+</SCRIPT>
+ </BODY></HTML>
+
+------=_NextPart_000_0000_01D1F724.B482CF50
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://www.exponenthr.com/service/logos/00363CATESCONTROLSYSTEMSINC.jpg
+
+/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAZAAA/+4ADkFkb2JlAGTAAAAAAf/b
+AIQAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQICAgICAgICAgIC
+AwMDAwMDAwMDAwEBAQEBAQECAQECAgIBAgIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMD/8AAEQgAQACNAwERAAIRAQMRAf/EALAAAQACAgEFAQAAAAAAAAAA
+AAAHCQgKBgECAwULBAEBAAIDAQEBAQAAAAAAAAAAAAYHBAUIAQIJAxAAAAYCAQMDAgMGBwAAAAAA
+AQIDBAUGBwgAERIJIRMUFRYxIpgj0xcYWApBUTIz1lfYEQACAQMDAgIFBwYLCQAAAAABAgMRBAUA
+EgYhBzETQSIy0xRRI5MVFlYIYdFTldUXcUJicjODJNRVZSeR0jRUlCUmdpb/2gAMAwEAAhEDEQA/
+AN/jjTTjTTjTTjTTjTTjTTjTTjTTjTTjTTjTTjTTjTTjTTjTTjTTjTTjTTjTTjTTjTTjTTjTTjTT
+jTTjTTjTTjTTjTTjTXEcgPrRF0O7SdHjUZm6R1Rsj6oQ7n0bytoaQz1xARq/7RL9i+lk0UjfnL+U
+w+ofjzPxcVlNk7aHJOY8c88ayuPFYy4DsPHqq1PgfDWvy0t7Bi7mfGIJMklvI0SHwaQITGp8OjNQ
+ePp1qv6h3DbmSvWDM9G3Ou+RsqZSzDXaxkHANnuCr2pyUDJSZS3eECgLqfb1WbVqBK+UbKR6LdaO
+UZdxPykMU3avPMfwSHG5LjH2ftrTCWVhJJBexxUlV1X5l/OHryGR9gYOWDh6Hqa65B4LHzaV8bzM
+cku7vP313EJrKWXdbsjsPOhEHsxmOPftZACjKSFAFBtnc4b12dpxppxppxppxppxppxppxppxppx
+ppxppxppxppxppxppxpqvne7Kl2XY0LUPBUurFbAbWu5SsM7Iw6KOcO4WikkRzJm14BDAZmtXa88
++nwgmMkZxPP2xUjCZIwctLtphccst1zvksYfi+EVZDGfC6u2r8LaCviHcb5qA7YUbcKMNVd3JzWR
+aK24NxtynJs0zRiQV/stqv8AxV01KUKRkpF1UtKw2EstNexzFofjewaswWBsLso7Fdqw7HVGd1zy
+EwaIFncfZRxeUr2gWt7KpIA9lBdySR0ZoyneeQaP3YHATqiPP5YDuXlrXmkvJuQs97ZX7ypfwMTs
+nt7jpNGFrRaLQxAUCMiU6DX9c/21xV1wqLjGAVbO8x6xvYzADfDcwdYZS1CSWaolYglldz7RrqUN
+Pdih2VwxHW2chvs/KlRmJbGedcdLCIPcdZmpCxIu71lZMxjn+Ad6BX0aqImBxFvG6oCPePTTc94p
+9kOQPY20nxGFnjW4s5x4T2kw3QyD+VSqSDpSRXHo1ueB8r+13H0vrmPyM1BI1veQemC6i9WWMip6
+Vo6dTVGWprXWUvIXqZ6caacaa8ayyLZFVw4VTQboJqLLrrKFSRRRSKJ1VVVTiUiaaZCiJjCIAAB1
+Hn0qs7BEBLk0AHUknwAHy6+WZUUu5AQCpJ6AAeJJ9AGqq6P5RI/P2YcgYp1E15v+xzDGSKZ7Tkxj
+bqPj3H3uKvl49EYiXuD5I0m1fuWyoMjgUij5NussimdBP3TXtlOxs3E+O2me7hZe0w0t6T5Vs0U1
+xP0UMd6QqdpUEbx1CFlVmDnbrnrE9/7fmXJL3j/bXDXmcjsKebcrNBbW/UlQUeZhuViDs8GkCsyK
+UXdrIb+Ou3P9Csv+o7DX7/kQ+y3b770x/q68/Nqa/a7uR90Zf1lY/n14rZuEvg3E1+zLtpip5rzU
+6eeIawSH3/TcmzeQJeX+aVGv1iNqK5R+uHWbEKkischTlOdUxk0EFlS/Vh27XlGftOOcAv1y+QuN
+5c+RNbJAiUrJI0o9ihNSAaEBQGZlU/GR7mtxLjl5yjuPjmwuNttgjHxEF09w77vm4lhPt9BQMQKE
+sSqIzCJ8Ibz552Lx7EZYxVorkJ3jyynenq05bcy4lpzyfj2bxVl9UaQkk+VkSMHCyJwSVMX2lgKJ
+kznJ2nNv+T9ruK8Oy8mAz3KbRcxAF81IrO6mEbEA7S6rt3AEVA6itGANQI9xTu3y/m2Gj5Fx3iN6
++Enr5Ukt7ZwGRVJXcI3beFqCASKGhKlhQmXf467c/wBCkv8AqOw1+/5Hvst2/wDvTH+r7z82pJ9r
+u5H3Rl/WVj/vagrZ7ygU7WNxjDGktiez3zajKCMB8TXCk2SClpSsvrK8LHQzCzXZmk8hkXEu/OCT
+IjVu6Wc/7ntkQ6KjKeEdj8jzdL7NW9/Ba8EsTJXIzRuiyLGNztHCSHIRerlmUL4VLVURHn3f3F8C
+kx+BucfPd9wch5e3Gwyo7RNIdqLLOoZAXagQIrs1QdoUhjK7fOW+K7dBc+htLaHWRTVO0dbg1X5L
+UyhCnFu4+LiZ0199ER7T+2qon3APaYwdBHQvxftWjlByq5YAkVGJloaekVugaHxFQD8oGpDHy3u+
+6K7cPtVJAO05mGor6DSzIqPA0JHyE69zCZk3beTMQzm9KKTCQruUj20xMobZV+WXiIpw8RSkZRGK
+TxM0Uk1Y9mc6xW5VUhXEnYByibuDGueO9s47aSS25LdS3KxsUQ4uRA7AEqpb4o7QxoN1DtrWhpTW
+Xacn7rS3UcV3xW1htWkUO4y8blEJAZggtFLFRU7ajdSlRXWa/K01amnGmuIZAvlTxbR7dki+TTSu
+Uui12XtdonH5/baxcHBsVpCRdqD/AKjim2QN2kKAnUP0KUBMIAOfi8ZfZrJQYjGRtLkLmVY40Hiz
+uQqj/aep8AOp6awcnkrLDY6fLZKQRWFtE0kjnwVEBYn8poOgHUnoOp1gponQ7ZfZC/72ZlhXkNlT
+Z1tFp47qMwUfqGGdYIVZV3ifHPsnAQj52ypOTWWxAn2gtKSBCHKBmwAFldysnZYyK17a4CRZMLhm
+bz5V9m7yLgC5nr/GSOnw8Fa0jQkEh9Vr22xl7k5bnuVn42jzWYVfIjb2rXHr1t4PE0eSvnzUoGdl
+qoZSNWNcqbVsaq2z4A6WbS1/b6MKZlr/ALDvKlhvcBokAki6ZcveTgsH7GukyiCLVu0eOyVayOR7
+SBHu2S5wOZATBc/GP9QuFy8Dm9blGKWW6xZ/jSxU33lgPSSQDcQL1O9ZFBAbVMcn/wBPeZxc7h9X
+i+UaO1yg8Fil9i0vj8gBIt5mqAEZGozdRaQAgIAICAgIAICA9QEB9QEBD0EBDlMeGrn8eo114004
+01Sx5x9qnuAtUS4zqkmrHXvYp/IUkjposZF7G47i2iLvIj9BRM5VEjSLR61iOvTqKcmoYogYgDzp
+T8MHA4uWc9+u79A+Kw6LMQR0a4YkW6n+aVeX+GNQeh1yv+LXuLLw3t0MDjZNmZzjtACDRlt1ANww
+/nBkhP8AJlYg1Gpt8SOqyermndGbTEYVjkfLaTfK2QzKIlTetndjZN1KzW3A9PdTLWKsDVA6Ij0T
+encmAAE48jP4gedtznuLdPbvuw2PJtbeh9UiNj5kg9B8yXcQfSgT5NSv8Nvbte33bCzjuk25zJAX
+dySPWBkUGKM+keXFtDL4CQyEeJ1Z1ykdX7rU/wDJha7Rv/5JMQ6HUSTdkoWNp9jB2ldiJlG7ezSM
+enZcq29YhQAiqtHoaHwWwKdfaeJuSFEPfHr3v2UsLHtL2ZyHdXKIv1rexM8QbxMat5drEPSBNOd7
+U8UKE+xr85+/ORyHebvrjOz2IkYYexmVJivUCVl826mPoPkQjYoYdHSRQfXOtp+o1SAotVrdKqka
+3hqxUYKJrVeiWhextGwsIxQjYxigX/BNszbEIHX1Hp1H15wpkL+7yt/Nk79zJfXErySOfFndizMf
+4SSdfoVjMdZYfHQYnGxrFj7aFIo0HgscahUUfkCgDXIeYes7WuPLaU7LYs8rt13JlMETmy+KnspP
+XSjOafd8cRc9BzctVW1frzN5B5DtVZMZeioEWbNykP7XYDdwicTkFIvY9v3L4Vnewtt24gysWEzy
+okM4mhuGjdFlLyEPbxSdJzRmJFal0YUO48PXXarnXHvxFXXdGfDzZ7j7vJNAYJ7ZJEd4tkYaO5mi
+qYPYUeFFR1ao2jOfOvk2ltZaiwv+dtLtkKBSpCwMqwjYFprBk4iE1INnjxoyO1r2V5N2mq4aRy5y
+CchEzCkICYBEOtX8W7JW/Nsg+J4ryXDXeTSEymMJeodikKWrJaqKAsoNCT1rTVtcu7+XHAsYmZ5h
+xXO2WKeZYhIXsJBvYMwWkd256qrEVAHSla6z6wbmej7D4louasbunzuk5ChCTkEpKMjR0oikDlwx
+eMZJiKiwNZCNkWazdchTqJgqkbsOcvQw1NyjjeU4hyC641mVRcnZy7H2ncp6BgytQVVlIZSQDQio
+BqNXLxPlGJ5pxy05Rg2dsXeRb49w2sKEqysKkBlZWVqEioNCRQmV+aHUi0401TZvTmXGWTcoSGGc
+pXeFo2mupEfVNht/8hzrlZGpuTkftpLCWvcw5bJLmXRsk2ihYZ9oUihlI1szbh0O67RufioHb7h0
+vcCf1eTZIS2mKB9qNKbLu/HybFJt4G/SO7UIWuqZ5UT3A5hFwCD1uNY1o7rKnoVkb27SxP8APYCe
+YU/o1UBg3TUR7O+d7xuyWpW2MzrfutVLdlCga45Jttea4ZSLKZFr7sI5tVIKzVSPuMbFVZWVg7Xa
+I0zYrxUUAWMQTJqFASGpkkk1Pjq5QABQeGqY/wC3wyzlbIu3dxy9ad9ci2vB2NdQbVaMv4ezj5GY
+7c21T9rXn6i4WzA/plbpNdpmEKfUGZ3YroHfSL9o5cJtyOlkTr9nmvdX7XTzJeE/N9QsuILpvpq1
+YKnkuDkqXYYWbvbeMjZGKsLVSNdt3MlKNmbKNH23HUjg6qXx1AKoBymKBg2GJyt/g8nb5jFyNFkb
+WZZI3HiroQQfyio6g9CKg9DrX5XF2Obxs+IycYlsLmJo5FPpVhQ9fEH0gjqpoQQQNTnoBlOwQ7e4
+aaZUtJbdkzXGNgHmPcgKPEHxc8at2gig4VzDHSKCijaaeoRKIQU6sgZVMkqxBQyhhdFEbH7lYqwv
+0te4/Ho1jwOZLGWJfZtL9KG6tv5KMT58FabonoBRNVz21yl9j2ue3PIJDJnsMFEUjeN1YNUW1x6K
+soHkzUrtkUbmLNqyLlUatbTjTWt15IsdOd6bLiG2QuDd5cb2XDy08xInM6oo3iqWSMk5KIkydzBD
+KEKsgqi/hC9REVEnbZYSHKUSFEezOzOYTtbZZCwucpxe9ssiEb1MoYJY2VXX2jbOCCr/AJCrCoJq
+dcL99MM/d2+xuQtMRy6xv8Y0g+cw/wARDKrMreyLpCCCn5Q6mhpQVyNT3B3+TTImGGLz0IQpA6eP
+7KxA6FKBfQhdswKQPT8A9A5Dm7d9pmJP1la9f8+tf2Vqbr3O7yqAoxV50H3du/2vqRcZ7pbUx9jU
+cZj11z1aakMa5TSi8a6VXanWIJgyrYWbpSYs+xdwjfpqSBVgURBn7pzmIJVCgUQNps3214JNZhOO
+ZnEwZDeKtc5mGaPZQ1GyLHwtuJpQ76AA1Br03mB7q9w4L4vyfB5m4x2w0W1wc8Mm+ooS8uSmXaBW
+o2VJIoRTVdFXxflrD262W9ycGYr2rbyeVXl2eKU7LmkkvcUoEchSrCdsCTKXred6q6Mo3lGPa0WI
+KRys1DIKFOAiY1x32cwHIu2mP7ccov8AAGCwWECa0zSQmT4dCkZKSWMo6qfXBqC4DgjoBR+OwHI+
+Md1cl3Q4jjuRrPkWnJgvME8wj+JcSSbXiv4jUOKIwoQhKMDUk5qfzib/AP8A0vef0AZX/wDWnK0/
+dz2m/wATtf19a/srVq/vP7y/4Vef/O3n7X1kDjTeDLEfWvj5h1T22tNw+oPFPqeN9U5am1wIo3tf
+Aa/SLNmO4yYyCIgcVlvlgmp3FAqZe0RNEs12wwE17v47nuPwY7YPVuMok0m7ruO+O0hXaelBsqOt
+Sa9Jpgu7fIobHZybjnJbjJ7z69tiHhi2dNo2S3szbh1qd9DUUAp1kH+e5X+i/fT9PzT/AJxzUfur
+H3k4p/159zrc/vgb7q8y/Vw9/qpPyA443S8omTMUYwxfrtlHB+BKC4dS0vc9gWMXQkXlqmwRYPLM
+9rjeZl5Z+zq8IU6Ee3aEcOl1HTgTFSIYBLf/AGlzPbbsbhb/ADeczFjlOV3ahEhsGaekSVYRrIUR
+VaR6NIz7VAVKFiOvOHebA90fxB5zG4DA4XIYnhtmxeSbIqtvulegaVo9zsVjQbYwm9yXkJAB6X+6
+94WreumEsZYPqS7h3BY0qUZWWsg7IVN3LOWyYqyk07SIY6aLqbll13ahCiJSHWEpfQA5yby7kt5z
+Hk19yfIALdXtw0hUdQgPRUB8SEQKgJ6kCp12Xwvi1lwnilhxTHMXtLG2WIMRQuR1eQgdAZHLOQOg
+LUHTUx8jmpPrFvcTZJjq3g6eyGlHI2W+S7+KoOHKGdym2XyFmC6OfpFEqaKiiiIJNXEop8l+t3FB
+tGtnCwj0T5MeC8V+13IEx9xKLbDwo095cN0W3tIRunlYnoKL6qV6GRkX06iPNuTScXwbXdlC13nJ
+5Et7K2QFpLm7mO2CFFX1mJb1mC9disR1GqppbX/K2qunWxNys272HbKopR8ubLZ6hLHrxirIra/5
+KSqr++W0spK2i5KGs0c2kIVNhFA6ZAVJi0bJlQKBAIEb7jcly3NOWSX2KyUNnxiAJb2FoII2+Hs4
+Rtii3GSrO3WSRqVaSRj4U10D2nxXbDt123gxHLu3OUy3O3iluMnlWzF9bLdX825pbj4eOx8uGKP1
+Y44w1BFEpZtzMdUi/wBsBp7YbV46LjmBHO2DcbHznnjJIycDkTW3EOXpiYrtZQpleBFaeu0/FSbe
+tuLLWVliRPsiySctwcED3FBEJZxu647bWDDMYC4ydy0hKypdTQKFoBsCRxOpoQSWrU1oR01zlyW0
+5FdX6th+QW+Mt1jAaF7WCdi1Sd5eSVGFQVAWlBSvp1shVzVS9Y/QsC1U3N1dpzSdhnMRa/tvSXXm
+upTtcMRQ72Inhiro0CTh1UjH9xBf3ERAR6l/Hkg+tODDqeH3dB/mFz/d9R76q50eg5jaVP8Al9r/
+AHjXzh5RrhrI3i82xt0Qjgy+7i7m+WqFpuH8fVqlY8LnaKxtFxEteHFixxU4QFLVjPHlptlmLDA1
+jEEIpYxyNCicpSlLz/lrTOfa+LkFvlorLgkNtMsuOe3iffK7gxTnIySLJGsKeoYxHSQ+szipGrit
+PLTHLaTxtPlfV+eBK1oAG+ZUFasQT0PTdQDoNfRSytrTkjX3CGrmccPz0fb8yaC4lqFTJR4uMjY1
+/lrBFfpddreXsOOJNs/cKyrt7A14ZSBBVNX2Z1iiZIoHWMI5XYDKcjxvKMnw/up3CxGY7bchRo4L
+b6vsrI46/wDM3WF4t1HeSMywgm2uFZAJoZC7MpQahPdrEf8Ab7LnXDcRcRcvwjb3Illk+MsmH9rt
+TH5YG5l+dhPrFJUGxavXVruLMm0vNGOKRljHUyhYKPkKtRNrrEsh0AHUVMNE3SALpAYxmr5t3ik4
+QP0UbuCHTOAHIYAmOaw+Q49l7nB5aMxZK1maORT6GU0ND6VPirDoykEdCNbzC5jH8gxNvmsW4kx9
+1EskbfKrCtCPQw8GU9VYFT1B1z7mr1s9ONNONNONNONNONNONNONNONNONNdiiqSJBUWUIkmXoBl
+FDlIQvcYCl6mMIFDuMIAH+Yjz0KWNFBJ14WVRViANUIWDIkVuNtJY8u3fVXM+zuo+DW1lxTrjFU2
+j0C44vyFkj6otC5ozTMNL1fKu1m/pD2GCu1w5Gztp8ZJ26TOVVXoFic/vYu3XB07byY66vOQZ2GK
+7ypjjjdYbau+zx775EO5ul1cJToTEjVAprK/D/xS/wC5fO272YjnHHuJW/GLyazwxu7y+truW58s
+JeZS3NnZXO2IBmtLeXzVLUlZFWm44DebqzarYi8XW3cxDeM2dwTcLLjlDH9OyJbMIa+VVtAzWQbT
+XqZ89nJ1vIcxZ275s0nVBRVYtFlElxTE3YXqcOfMXY4F7+IxcfktpQ1Vla3t1VGUVB3LIzA1HQgE
+1prsTuFyvvDa8Ov1yXeux5BYSweVLjbbN5qea7ilZYpIhDcWUMMibWLSrJIqmIP7RG0/p8MmHtba
+Z4v9OIq8eLDIedrjJYrJdbFlNpgvXm6IWt5kWfmr80dpz9lyg0n3SCENY2qKJXiDddNummUyROgB
+zqfjc/KrLCW8OJ5tZY2y27hbfG3sRhLksyskVuyK+4ksFYiprU6/MbksHFL3OXE2W4RfZK+DhTc/
+BWUomCAKrK8twrsm0AKWUGgpQayP3pm9PcLaZbT5NP4jbTjZ/U8A5Yf1+62vXfWWFhIC0jR5tCsy
+Lt8yyZISZE2k2qgqb4jZy6AhDGTSOYOnM/I5nnVtYTTtz63nCxMfKjyF+zy+qfm0VrdVLN7IDMAS
+epA1r8dhuCXWQgt14BcQFpUHmyY+wWOL1h847LOzKqeJKqSKdATrUWx5pniDA+pH9u/m2h0GyULd
+DbLeAktbcysLTORS9rw8jl9Jiyh0Ixe2ErzZjH1OchQMuVmx91uquRdVRJcwjxfnM7Y8qXkfDOS8
+PzGQ47Y2ZZxc2lnNZZgFPM+GsY5LpjcSEgIFuYrdPMpR6UYdLW1vJZNa31pfwRXUjihR5Fkg603y
+EINoHiShc09HiNfS7Kzohu1VLAMoqQ3RRNZKo0w6ahTfmIomcs2JTkOA9QEPQQ5yQeN9iASG/Dtm
+Qf8A13jv7S1YAvOUMg/8ut6Ef85ee51grr3N/wAnW09g1llIKZpmtuzkraMratGsSDGPi8f5aKQ8
+7mjAjE7R88ZMIedE57TW23cimT3H7VIpzFLz9M+L80m78dtDzT7O5/j3K+Mi3x99b5SC3ilu7LYE
+sshALa6u1dYQos7ks4kUrC7KEYE8qW+OTtTz1+Gvd2tzxPOtNd2EkLOY7e6rvu7Ji6JtElfiLdQo
+TrIi7nrq2nvJ2e53F9vt7+/uDs7Ond3d3Xp29PXr+HTkcoa09OrQqKV9Gu7nmvdONNONNONNONNO
+NNONNONNONNa9XlC14yDnXbXGzXLs3kpjqI0xg1TrH2M3skjWI/K4zU6eyq2yMrYicLG7i/poR6z
+kAIdsUxEDd5FwHqnszyrFca4NdyYKOzbnbXp8zzjGshttieWImk6eWG8zeF6hqFhQqdcyd1uF3nL
++f28PJ5LwcCSwXyVhMgi+K8x/MMvl9RJs8vZUgMvReqsNTpqBjTyQYUwPVca4wj9aF8W1t5PI4zb
+bCyGXYXKcVR3Ew7dwsXNR1LrzyObMG5VjmYEcH+cmyOkRcCnL0CNc8zHaTkXJp8vmGzAzUyobg2K
+2r2zTBAHZGlcMSaDeVGwuCV6HW94dgu7HF8FHhOO/U8nH4Xf4b49rpblIWYsqP5KFdqkny9x37No
+bqNRBub4xMx+QqZoU/uRrJ46c2S2MIydh6I5k8u7sVYlejrM6jXs6gg0ojmrs3ZpFzENjGUcJrKF
+9koFMBeoDDTH2UPhLykf1dh7zUo398P0fFPpL/3eph1N1C2/0YxOGDtUcJeOrEGKwss1cRqcbkHb
+WxJHs1hKyTmJZWVuTGxTiyzxKOQJ2ncmTTIkUpClKHTgR9kwP6XlP0dh7zTf3w/R8U+kv/d64luf
+oTs35C6NVMa7iYI8fGY6PSLZ981ivr5b3OpbeNtf0eRgCzB18e/arx+qSIl3KJCOVFUiAsYSlAw9
+eDH2UPhLykf1dh7zXok74Dxi4of6zIe71BObfDhZtjca68YezTqL46LvjPVCmPsfa/VBfN29kNHY
+9qUm1rzJ/GIqVyViHtgWdNqpHgd1KKvXZhbgYVe4xxN55fZT9Lyn6Ow95p5nfDr81xT6TIe71ZZE
+tPKLBRUbCRFZ8esfEw8eziotg3smxhW7KOj2ybRk0QKNVESotmyJSFDr6FKHPrZ2T/Scp+jsPea8
+398P0fFPpL/3eq1vI9hLenPP8AoPaGPxgjrpB3eYmLmOrB8oWRSNsp45qwq1gyE1tMMymmsXHMnU
+iixcMCmQSXdKFcmKKjceXH2k5F214yMpc8Ne8PLJLZFh+svh4w0e4tIkBjcoWYiMur9SFBQGjaqX
+ubxXuNy+8xNhz1bJeGRzyPN9Wm5b53aBC1x5iB1QAyBHj6AsQxBZNepZ6hZFLqbYsOO73ng+qq2z
+FMma+cp7h9zN8SNsc3xtcCLQ4LBbRxS8yG6g3abA3VsD5A6xSAiJjjkSc8xJ5zFn47bGfbYYeVH/
+AKLyzdG4hMVGp5XxIgEyl/a2MFJ3UGsyPtrMOKS8bku8meCnJxSInmS7xALeZZUJr5vwrTGFwlaC
+RSw9UnX/2Q==
+
+------=_NextPart_000_0000_01D1F724.B482CF50
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://www.exponenthr.com/service/images/tc_worked.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAKAAoDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDzuiii
+vBPmT//Z
+
+------=_NextPart_000_0000_01D1F724.B482CF50
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://www.exponenthr.com/service/images/tc_statutory.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/4QAWRXhpZgAASUkqAAgAAAAAAAAAAAD/2wBDAAgGBgcGBQgH
+BwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/
+2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy
+MjIyMjIyMjIyMjL/wAARCAAKAAoDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQF
+BgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS
+0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4
+eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi
+4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl
+8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImK
+kpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP0
+9fb3+Pn6/9oADAMBAAIRAxEAPwDJooor4o++P//Z
+
+------=_NextPart_000_0000_01D1F724.B482CF50
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.exponenthr.com/service/normal.css
+
+h1 {
+	margin: 6px 0px 10px; text-align: left; color: rgb(0, 0, 0); =
+letter-spacing: -1px; font-family: Times New Roman; font-size: 18pt; =
+font-weight: bold;
+}
+h2 {
+	margin: 18px 0px 10px; text-align: left; color: rgb(0, 0, 0); =
+letter-spacing: -1px; font-family: Times New Roman; font-size: 18pt; =
+font-weight: bold;
+}
+h3 {
+	color: rgb(0, 0, 0); text-transform: capitalize; line-height: 100%; =
+font-family: Microsoft Sans Serif; font-size: 10pt; font-weight: bold; =
+margin-bottom: 0px;
+}
+h4 {
+	text-align: left; color: rgb(0, 0, 0); text-transform: none; =
+line-height: 130%; font-family: Microsoft Sans Serif; font-size: 8pt; =
+font-weight: normal;
+}
+h5 {
+	text-align: center; color: rgb(0, 0, 0); line-height: 130%; =
+font-family: Microsoft Sans Serif; font-size: 8pt; font-weight: normal; =
+margin-bottom: 5px;
+}
+h6 {
+	text-align: right; color: rgb(0, 0, 0); text-transform: none; =
+line-height: 130%; font-family: Microsoft Sans Serif; font-size: 8pt; =
+font-weight: normal;
+}
+li {
+	line-height: 150%; margin-top: 0px; margin-bottom: 0px;
+}
+
+------=_NextPart_000_0000_01D1F724.B482CF50--

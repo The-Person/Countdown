@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+  ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #304cb2;
+}
+ul.topnav li {float: left;}
+ul.topnav li a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+    font-family:"Arial";
+}
+ul.topnav li a:hover {background-color: #304cf2;}
+ul.topnav .icon {display: none;}
+</style>
+  <ul class="topnav" id="my Topnav">
+  <li><a href="#home">Home</a></li>
+  <li><a href="#schedule#">Schedule</a></li>
+  <li><a href="#discussion">Discussion</a></li>
+  <li><a href="#faq">FAQ</a></li>
+  <li class="icon">
+    <a href="javascript:void(0);" onclick="myFunction()">&#9776;</a>
+    </li>
+</ul>
+
+  <form action="">
+    Username: <input type="text" name="user"><br>
+    Password: <input type="password" name="password">
+  </form>
+  <form>
+    What is your issue? <br />
+  <textarea rows="5" cols="50" name="issue">
+    Enter issue here...
+  </textarea>
+  </form>
+</body>
+</html>

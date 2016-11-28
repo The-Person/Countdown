@@ -5,6 +5,11 @@
 
 using namespace std;
 
+int myvar;
+int foo;
+int bar;
+int baz;
+
  int main() {
      int count;
 
@@ -14,6 +19,15 @@ using namespace std;
      sleep(1);
      if (count == 0) {
       std::cout << "BOOM! I'm done counting!" << std::endl;
-     }
+     myvar = 25;
+foo = &myvar;
+bar = myvar;
+baz = *foo;
+
+std::cout << myvar <<std::endl;
+std::cout << foo <<std::endl;
+std::cout << bar <<std::endl;
+std::cout << baz <<std::endl;
+    }
 }
 }

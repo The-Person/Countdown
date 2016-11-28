@@ -1,0 +1,36 @@
+<!Doctype HTML>
+<head>
+  <script>
+    
+    function swapap(){
+        counter = document.getElementById("switcher").value;//grabs p/a switcher value
+        if (counter==="Pilot"){
+          document.getElementById("attendo").style.visibility="hidden;";
+          document.getElementById("piloto").style.visibility="visible;";
+        }else{
+          document.getElementById("attendo").style.visibility="visible;";
+          document.getElementById("piloto").style.visibility="hidden;";
+      }
+  </script>
+  <title>
+    Combination Program
+  </title>
+</head>
+<body>
+  
+  <form>
+    <label>Pilots or Attendants?</label>
+    <select id="switcher">
+      <option>Pilot</option>
+      <option>Attendant</option>
+    </select>
+    <input type="button" onclick="swapap()" value = "Go!"/>
+  </form>
+  
+  <embed src="file:///home/chronos/u-4f426a8f834032f5b61e6bd5f416fb2ee8aa8857/Downloads/PilotData.html" height=450 width=650 id="piloto">
+  
+  <embed src="file:///home/chronos/u-4f426a8f834032f5b61e6bd5f416fb2ee8aa8857/Downloads/AttenData.html" height=450 width=650 id="attendo">
+  
+
+</body>
+</html>

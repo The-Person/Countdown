@@ -1,0 +1,36 @@
+<!Doctype html>
+  <head>
+    <script>
+    
+      function searchdataA(){//copied for Attendants
+        doodad = document.getElementById("loc").value;
+        website = "https://docs.google.com/spreadsheets/d/1MB3CLMWK0O-uqG6GPajQDcmKoCYKg-EO4j0ELoVucv0/gviz/tq?tqx=out:html&tq=SELECT+A,+B,+C,+D,+E+WHERE+B+CONTAINS+%27"+doodad+"%27&gid=1411072849";
+        window.location=website;
+        
+      }
+    </script>
+    
+    <title>
+      Attendant Program
+    </title>
+  </head>
+    
+  <body>
+    
+    <form name="LOCATO" id="attendantform">
+      <label for="loc">Location:</label><!-- creates dropdown menu for locations -->
+      <select name="loc" id="loc">
+        <option></option>
+        <option>LAX</option>
+        <option>ATL</option>
+        <option>DAL</option>
+        <option>BLT</option>
+      </select>
+      <input type="button" onclick="searchdataA()" value = "Search"/><!-- runs search code-->
+    </form>
+    
+    <embed id="piloto" src="https://docs.google.com/spreadsheets/d/1MB3CLMWK0O-uqG6GPajQDcmKoCYKg-EO4j0ELoVucv0/gviz/tq?tqx=out:html&tq=SELECT+A,+B,+C,+D,+E+WHERE+B+CONTAINS+%27%27&gid=1411072849" width="600" height="400"><!-- embeds the pilot query into the page -->
+    
+  </body>
+  
+</html>

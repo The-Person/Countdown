@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en" class="fill-height">
+<head>
+  <title>Code Embed Tool</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.css" />
+  <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" media="screen" />
+  <link href="/css/code-embed.css?1396563415" rel="stylesheet" />
+</head>
+<body class="fill-height">
+<div class="container-fluid fill-height" style="padding: 0;">
+  <div class="row-fluid fill-height">
+    
+    <div class="col-xs-4 fill-height" id="settings">
+      <!-- put settings panel here -->
+      <form id="settings-form">
+  <fieldset>
+    <legend id="title" style="text-align: center;">
+      <img src="/images/banner.png" width="240" height="125" alt="Code Embed Tool" />
+    </legend>
+  <table id="controls">
+    <tr>
+      <td >
+        <label for="mode">Language</label>
+      </td><td>
+        <select id="mode" size="1">
+          <option value="ace/mode/abap">ABAP</option>
+          <option value="ace/mode/ada">ADA</option>
+          <option value="ace/mode/actionscript">ActionScript</option>
+          <option value="ace/mode/asciidoc">AsciiDoc</option>
+          <option value="ace/mode/assembly_x86">Assembly_x86</option>
+          <option value="ace/mode/autohotkey">AutoHotKey</option>
+          <option value="ace/mode/batchfile">BatchFile</option>
+          <option value="ace/mode/c9search">C9Search</option>
+          <option value="ace/mode/c_cpp">C/C++</option>
+          <option value="ace/mode/clojure">Clojure</option>
+          <option value="ace/mode/cobol">Cobol</option>
+          <option value="ace/mode/coffee">CoffeeScript</option>
+          <option value="ace/mode/coldfusion">ColdFusion</option>
+          <option value="ace/mode/csharp">C#</option>
+          <option value="ace/mode/css">CSS</option>
+          <option value="ace/mode/curly">Curly</option>
+          <option value="ace/mode/d">D</option>
+          <option value="ace/mode/dart">Dart</option>
+          <option value="ace/mode/diff">Diff</option>
+          <option value="ace/mode/dot">Dot</option>
+          <option value="ace/mode/erlang">Erlang</option>
+          <option value="ace/mode/ejs">EJS</option>
+          <option value="ace/mode/forth">Forth</option>
+          <option value="ace/mode/freemarker">FreeMarker</option>
+          <option value="ace/mode/glsl">Glsl</option>
+          <option value="ace/mode/golang">Go</option>
+          <option value="ace/mode/groovy">Groovy</option>
+          <option value="ace/mode/haml">HAML</option>
+          <option value="ace/mode/haskell">Haskell</option>
+          <option value="ace/mode/haxe">haXe</option>
+          <option value="ace/mode/html">HTML</option>
+          <option value="ace/mode/html_ruby">HTML (Ruby)</option>
+          <option value="ace/mode/ini">Ini</option>
+          <option value="ace/mode/jade">Jade</option>
+          <option value="ace/mode/java">Java</option>
+          <option value="ace/mode/javascript">JavaScript</option>
+          <option value="ace/mode/json">JSON</option>
+          <option value="ace/mode/jsoniq">JSONiq</option>
+          <option value="ace/mode/jsp">JSP</option>
+          <option value="ace/mode/jsx">JSX</option>
+          <option value="ace/mode/julia">Julia</option>
+          <option value="ace/mode/latex">LaTeX</option>
+          <option value="ace/mode/less">LESS</option>
+          <option value="ace/mode/liquid">Liquid</option>
+          <option value="ace/mode/lisp">Lisp</option>
+          <option value="ace/mode/livescript">LiveScript</option>
+          <option value="ace/mode/logiql">LogiQL</option>
+          <option value="ace/mode/lsl">LSL</option>
+          <option value="ace/mode/lua">Lua</option>
+          <option value="ace/mode/luapage">LuaPage</option>
+          <option value="ace/mode/lucene">Lucene</option>
+          <option value="ace/mode/makefile">Makefile</option>
+          <option value="ace/mode/matlab">MATLAB</option>
+          <option value="ace/mode/markdown">Markdown</option>
+          <option value="ace/mode/mysql">MySQL</option>
+          <option value="ace/mode/mushcode">MUSHCode</option>
+          <option value="ace/mode/objectivec">Objective-C</option>
+          <option value="ace/mode/ocaml">OCaml</option>
+          <option value="ace/mode/pascal">Pascal</option>
+          <option value="ace/mode/perl">Perl</option>
+          <option value="ace/mode/pgsql">pgSQL</option>
+          <option value="ace/mode/php">PHP</option>
+          <option value="ace/mode/powershell">Powershell</option>
+          <option value="ace/mode/prolog">Prolog</option>
+          <option value="ace/mode/properties">Properties</option>
+          <option value="ace/mode/python">Python</option>
+          <option value="ace/mode/r">R</option>
+          <option value="ace/mode/rdoc">RDoc</option>
+          <option value="ace/mode/rhtml">RHTML</option>
+          <option value="ace/mode/ruby">Ruby</option>
+          <option value="ace/mode/rust">Rust</option>
+          <option value="ace/mode/sass">SASS</option>
+          <option value="ace/mode/scad">SCAD</option>
+          <option value="ace/mode/scala">Scala</option>
+          <option value="ace/mode/scheme">Scheme</option>
+          <option value="ace/mode/scss">SCSS</option>
+          <option value="ace/mode/sh">SH</option>
+          <option value="ace/mode/snippets">snippets</option>
+          <option value="ace/mode/sql">SQL</option>
+          <option value="ace/mode/stylus">Stylus</option>
+          <option value="ace/mode/svg">SVG</option>
+          <option value="ace/mode/tcl">Tcl</option>
+          <option value="ace/mode/tex">Tex</option>
+          <option value="ace/mode/text">Text</option>
+          <option value="ace/mode/textile">Textile</option>
+          <option value="ace/mode/toml">Toml</option>
+          <option value="ace/mode/twig">Twig</option>
+          <option value="ace/mode/typescript">Typescript</option>
+          <option value="ace/mode/vbscript">VBScript</option>
+          <option value="ace/mode/velocity">Velocity</option>
+          <option value="ace/mode/xml">XML</option>
+          <option value="ace/mode/xquery">XQuery</option>
+          <option value="ace/mode/yaml">YAML</option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td >
+        <label for="theme">Theme</label>
+      </td><td>
+        <select id="theme" size="1">
+          <optgroup label="Bright">
+            <option value="ace/theme/chrome">Chrome</option>
+            <option value="ace/theme/clouds">Clouds</option>
+            <option value="ace/theme/crimson_editor">Crimson Editor</option>
+            <option value="ace/theme/dawn">Dawn</option>
+            <option value="ace/theme/dreamweaver">Dreamweaver</option>
+            <option value="ace/theme/eclipse">Eclipse</option>
+            <option value="ace/theme/github">GitHub</option>
+            <option value="ace/theme/solarized_light">Solarized Light</option>
+            <option value="ace/theme/textmate" selected="selected">TextMate</option>
+            <option value="ace/theme/tomorrow">Tomorrow</option>
+            <option value="ace/theme/xcode">XCode</option>
+          </optgroup>
+          <optgroup label="Dark">
+            <option value="ace/theme/ambiance">Ambiance</option>
+            <option value="ace/theme/chaos">Chaos</option>
+            <option value="ace/theme/clouds_midnight">Clouds Midnight</option>
+            <option value="ace/theme/cobalt">Cobalt</option>
+            <option value="ace/theme/idle_fingers">idleFingers</option>
+            <option value="ace/theme/kr_theme">krTheme</option>
+            <option value="ace/theme/merbivore">Merbivore</option>
+            <option value="ace/theme/merbivore_soft">Merbivore Soft</option>
+            <option value="ace/theme/mono_industrial">Mono Industrial</option>
+            <option value="ace/theme/monokai">Monokai</option>
+            <option value="ace/theme/pastel_on_dark">Pastel on dark</option>
+            <option value="ace/theme/solarized_dark">Solarized Dark</option>
+            <option value="ace/theme/terminal">Terminal</option>
+            <option value="ace/theme/tomorrow_night">Tomorrow Night</option>
+            <option value="ace/theme/tomorrow_night_blue">Tomorrow Night Blue</option>
+            <option value="ace/theme/tomorrow_night_bright">Tomorrow Night Bright</option>
+            <option value="ace/theme/tomorrow_night_eighties">Tomorrow Night 80s</option>
+            <option value="ace/theme/twilight">Twilight</option>    
+            <option value="ace/theme/vibrant_ink">Vibrant Ink</option>
+          </optgroup>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <label for="fontsize">Font Size</label>
+      </td><td>
+        <select id="fontsize" size="1">
+          <option value="10px">10px</option>
+          <option value="11px">11px</option>
+          <option value="12px" selected="selected">12px</option>
+          <option value="13px">13px</option>
+          <option value="14px">14px</option>
+          <option value="16px">16px</option>
+          <option value="18px">18px</option>
+          <option value="20px">20px</option>
+          <option value="24px">24px</option>
+        </select>
+      </td>
+    </tr>
+  </table>
+    
+  <div class="panel-group" id="advanced-settings">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#advanced-settings" href="#collapseOne">
+            Advanced Settings <span style="font-size: 12px;">&#9660;</span>
+          </a>
+        </h4>
+      </div>
+      <div id="collapseOne" class="panel-collapse collapse">
+        <div class="panel-body">
+          <table id="controls_advanced">
+            <tr>
+              <td>
+                <label for="soft_wrap">Soft Wrap</label>
+              </td><td>
+                <input type="checkbox" id="soft_wrap" />
+              </td>
+            </tr>
+            <tr>
+              <td >
+                <label for="show_gutter">Gutter</label>
+              </td><td>
+                <input type="checkbox" id="show_gutter" />
+              </td>
+            </tr>
+            <tr>
+              <td >
+                <label for="show_print_margin">Print Margin</label>
+              </td><td>
+                <input type="checkbox" id="show_print_margin" />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label for="folding">Code Folding</label>
+              </td><td>
+                <input type="checkbox" id="folding" />
+              </td>
+            </tr>
+            <tr>
+              <td >
+                <label for="read_only">Read-only</label>
+              </td>
+              <td>
+                <input type="checkbox" id="read_only" />
+              </td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+  </fieldset>
+</form>
+      <button class="btn btn-large btn-primary" id="save-button" type="button">
+         Embed this code!
+      </button>
+      <button class="btn btn-large" id="reset-button" type="button">Reset</button>
+    </div> <!-- end settings -->
+    
+    <div class="col-xs-8 fill-height">
+      <div id="editor" class="fill-height" style="display: none;"></div>
+      
+    </div>
+  </div> <!-- end row-fluid -->
+</div> <!-- end container-fluid -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+<script src="/js/ace-builds/src-noconflict/ace.js?1396563415"></script>
+<script src="/js/code-embed.js?1396563415"></script>
+<script src="/js/code-embed-settings-panel.js?1396563415"></script>
+
+<form id="editor-data">
+  <input type="hidden" name="contents" value="// Welcome to Code Embed!
+// To get started, select the language you want to code in and pick a theme!
+// Feel free to play around with the other settings as well.
+// When you're done, just click 'Embed this code!' and the code will be embedded in your LMS exactly as it appears here!" />
+  <input type="hidden" name="editor-settings" value="" />
+  <input type="hidden" name="placement-id" value="K4D2tBTNPyXJrrDWALDg" />
+  <input type="hidden" name="for-outcome" value="false" />
+  <input type="hidden" name="can-edit" value="false" />
+  <input type="hidden" name="return-url" value="https://academyhs.instructure.com/courses/581242/external_content/success/external_tool_dialog?return_type=url&url=https%3A%2F%2Fcode-embed-lti.herokuapp.com%2Fplacement%2FK4D2tBTNPyXJrrDWALDg&text=link&target=_blank&title=Code+Embed+submission" />
+</form>
+
+</body>
+</html>рж:Ц─      X!SX!S=       :    ~1476658281,:https://code-embed-lti.herokuapp.com/lti_tool necko:classified 1 security-info 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 request-method POST response-head HTTP/1.1 200 OK 
+Content-Type: text/html;charset=utf-8
+Content-Length: 12803
+X-XSS-Protection: 1; mode=block
+x-content-type-options: nosniff
+Server: WEBrick/1.3.1 (Ruby/2.1.0/2013-12-25)
+Date: Mon, 17 Oct 2016 00:54:43 GMT
+Via: 1.1 vegur
+ charset UTF-8 uncompressed-len 0   2
